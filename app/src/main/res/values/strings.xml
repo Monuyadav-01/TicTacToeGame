@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TikTakToeGame</string>
+    <string name="x">x</string>
+    <string name="x1">x</string>
+    <string name="X2">x</string>
+    <string name="x3">x</string>
+    <string name="player_x_turn">Player X Turn</string>
+</resources>
